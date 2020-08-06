@@ -62,9 +62,13 @@ table {
 	width: 16px;
 }
 
+.social-net{
+	display: flex;
+}
+
 .social-net a {
-	height: 16px;
-	width: 16px;
+	padding: 2px;
+	display: block;
 	font-size: 16px;
 	text-decoration: none;
 }
@@ -253,6 +257,7 @@ table {
 	width: 75px;
 	color: #ffffff;
 	background-color: #00cc98;
+	float: right;
 }
 
 .footer {
